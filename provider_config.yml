@@ -34,10 +34,10 @@ eureka:
       defaultZone: http://localhost:2004/eureka
 
 info:
-  groupId: com.javaxl.testSpringcloud
+  groupId: com.wp.testSpringcloud
   artifactId: microservice-student-provider-config-1007
   version: 1.0-SNAPSHOT
-  userName: http://javaxl.com
+  userName: http://wp.com
   phone: 123456
 ---
 server:
@@ -71,8 +71,8 @@ eureka:
       defaultZone: http://localhost:2004/eureka
 
 info:
-  groupId: com.javaxl.testSpringcloud
+  groupId: com.wp.testSpringcloud
   artifactId: microservice-student-provider-config-1008
   version: 1.0-SNAPSHOT
-  userName: http://javaxl.com
+  userName: http://wp.com
   phone: 123456
